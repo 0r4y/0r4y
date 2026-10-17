@@ -7,7 +7,6 @@
 <img src="https://img.shields.io/badge/Python-0b1220?style=for-the-badge&logo=python&logoColor=9fc4ff" alt="Python">
 <img src="https://img.shields.io/badge/SQLite3-0b1220?style=for-the-badge&logo=sqlite&logoColor=9fc4ff" alt="SQLite3">
 <img src="https://img.shields.io/badge/discord.py-0b1220?style=for-the-badge&logo=discord&logoColor=9fc4ff" alt="discord.py">
-<img src="https://img.shields.io/badge/Pillow-0b1220?style=for-the-badge&logo=python&logoColor=9fc4ff" alt="Pillow">
 <img src="https://img.shields.io/badge/Git-0b1220?style=for-the-badge&logo=git&logoColor=9fc4ff" alt="Git">
 
 </div>
@@ -41,7 +40,7 @@ for chave, valor in conn.execute("SELECT * FROM sobre"):
       <a href="https://github.com/0r4y/Bot-discord"><b>🕯️ Bot-discord</b></a><br>
       <sub>Bot de comunidade para Discord em Python: moderação, tickets, sorteios, logs, boas-vindas
       e uma sociedade secreta com credenciais e GIFs gerados na hora.</sub><br><br>
-      <code>python</code> <code>discord.py</code> <code>sqlite3</code> <code>pillow</code>
+      <code>python</code> <code>discord.py</code> <code>sqlite3</code>
     </td>
   </tr>
 </table>
