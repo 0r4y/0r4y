@@ -4,10 +4,10 @@
 
 <br>
 
-<img src="https://img.shields.io/badge/Python-0b1220?style=for-the-badge&logo=python&logoColor=9fc4ff" alt="Python">
-<img src="https://img.shields.io/badge/SQLite3-0b1220?style=for-the-badge&logo=sqlite&logoColor=9fc4ff" alt="SQLite3">
-<img src="https://img.shields.io/badge/discord.py-0b1220?style=for-the-badge&logo=discord&logoColor=9fc4ff" alt="discord.py">
-<img src="https://img.shields.io/badge/Git-0b1220?style=for-the-badge&logo=git&logoColor=9fc4ff" alt="Git">
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffffff" alt="Python">
+<img src="https://img.shields.io/badge/SQLite3-000000?style=for-the-badge&logo=sqlite&logoColor=ffffff" alt="SQLite3">
+<img src="https://img.shields.io/badge/discord.py-000000?style=for-the-badge&logo=discord&logoColor=ffffff" alt="discord.py">
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff" alt="Git">
 
 </div>
 
